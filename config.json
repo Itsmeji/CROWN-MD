@@ -1,10 +1,10 @@
 {
-   "owner1": "13092208152",
-   "owner_name1": "Mrlit Andy",
-   "owner2": "237699946437",
-   "owner_name2": "KAZA",
-   "owner3": "25377249517",
-   "owner_name3": "FARADA",
+   "owner1": "22896870256",
+   "owner_name1": "Israfel Kurosaki",
+   "owner2": "22899869601",
+   "owner_name2": "SCP Ichigo",
+   "owner3": "22891386435",
+   "owner_name3": "Sahaquiel Kurosaki",
    "database": "data",
    "limit": 20,
    "ram_limit": "900mb",
@@ -20,7 +20,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 237670256412
+      "number": 242055847202
    },
    "replit_url": ""
 }
